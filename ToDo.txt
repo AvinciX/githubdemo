@@ -1,1 +1,2 @@
 1.Lern github
+2.jest dobrze
